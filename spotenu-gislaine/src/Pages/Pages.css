@@ -1,0 +1,16 @@
+.tela-toda{
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.container{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(16,1,31,1) 36%, rgba(31,0,60,1) 99%);
+    min-height: 60vh;
+    width: 100%;
+}
